@@ -1,0 +1,2 @@
+net.younes.dao.DaoImpl
+net.younes.metier.MetierImpl
